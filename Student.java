@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 
-
 // Array Quiz #1
 // public class Student {
 //     private int[] quizGrades;
